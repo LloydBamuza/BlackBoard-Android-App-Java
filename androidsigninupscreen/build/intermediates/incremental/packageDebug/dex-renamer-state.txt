@@ -1,0 +1,4 @@
+#Tue Apr 03 17:03:17 SAST 2018
+base.0=/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/layout/activity_sign_in_screen.xml",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/layout/activity_sign_in_screen.xml"
+    },
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/layout/activity_sign_up_screen.xml",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/layout/activity_sign_up_screen.xml"
+    }
+]

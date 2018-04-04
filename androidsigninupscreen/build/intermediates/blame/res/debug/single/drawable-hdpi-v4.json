@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_top_bg.xml",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/drawable-hdpi/edittext_top_bg.xml"
+    },
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_default_bg.xml",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/drawable-hdpi/edittext_default_bg.xml"
+    },
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_bottom_bg.xml",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/drawable-hdpi/edittext_bottom_bg.xml"
+    },
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/drawable-hdpi-v4/linearlayout_bg.xml",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/drawable-hdpi/linearlayout_bg.xml"
+    },
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_default_bg.xml",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/drawable-hdpi/button_default_bg.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/drawable-hdpi/password.png",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/drawable-hdpi/password.png"
+    },
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/drawable-hdpi/balloon_bg.png",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/drawable-hdpi/balloon_bg.png"
+    },
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/drawable-hdpi/user.png",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/drawable-hdpi/user.png"
+    },
+    {
+        "merged": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/build/intermediates/res/merged/debug/drawable-hdpi/email.png",
+        "source": "/home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/res/drawable-hdpi/email.png"
+    }
+]

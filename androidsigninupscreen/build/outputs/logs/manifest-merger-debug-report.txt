@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml
+		INJECTED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml
+		INJECTED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml
+		INJECTED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml
+		INJECTED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml
+		INJECTED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml
+application
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:11:5-46:19
+	android:label
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:15:9-40
+activity#com.hmkcode.android.sign.MainActivity
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:19:13-77
+	android:name
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:17:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:23:27-74
+activity#com.hmkcode.android.sign.SignUpActivity
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:26:9-35:20
+	android:label
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:29:13-77
+	android:name
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:27:13-67
+intent-filter#android.intent.action.SignUpActivity+android.intent.category.DEFAULT
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.SignUpActivity
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:31:17-79
+	android:name
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:31:25-76
+category#android.intent.category.DEFAULT
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:33:27-73
+activity#com.hmkcode.android.sign.SignInActivity
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:38:13-45
+	android:theme
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:39:13-77
+	android:name
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:37:13-67
+intent-filter#android.intent.action.SignInActivity+android.intent.category.DEFAULT
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:40:13-44:29
+action#android.intent.action.SignInActivity
+ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:41:17-79
+	android:name
+		ADDED from /home/lloyd/Downloads/TabStacker-master/androidsigninupscreen/src/main/AndroidManifest.xml:41:25-76
